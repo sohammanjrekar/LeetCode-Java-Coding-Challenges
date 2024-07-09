@@ -7,6 +7,9 @@
 
 This repository contains Java solutions to various problems from LeetCode, categorized by problem type. Each problem is solved and explained to aid understanding and learning.
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/sohammanjrekar)
+
+
 ## Structure
 
 The repository is organized into folders based on problem types such as arrays, strings, linked lists, trees, dynamic programming, sorting and searching, and more. Each folder contains solutions to relevant problems from LeetCode.
