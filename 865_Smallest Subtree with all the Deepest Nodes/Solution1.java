@@ -1,4 +1,10 @@
 import java.util.*;
+// Time complexity: O(n)
+// The algorithm visits each node exactly once, so the time complexity is O(n), where n is the number of nodes in the binary tree.
+
+// Space complexity: O(h)
+// The space complexity is O(h), where h is the height of the binary tree. This space is used for the recursive call stack, which can go up to the height of the tree in the worst case.
+
 
 // Definition for a binary tree node
 class TreeNode {
